@@ -1,4 +1,4 @@
-# Wise Casa 🏠
+# Property Predictor🏠
 **Home Prediction Bangalore Site** - Your Gateway to Tomorrow's Property Landscape
 
 ## Objective
